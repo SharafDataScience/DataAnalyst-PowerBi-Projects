@@ -1,4 +1,4 @@
-📊 # Customer Churn Analysis for Telecom Company
+# Customer Churn Analysis for Telecom Company
 📝 ## Project Overview
 This project explores customer churn data from a telecom company to identify the primary drivers behind churn, understand customer behavior patterns, and support strategic decisions aimed at improving customer retention and satisfaction.
 
