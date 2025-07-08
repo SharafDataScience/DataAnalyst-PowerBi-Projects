@@ -1,6 +1,6 @@
 # Customer Churn Analysis for Telecom Company
 ## Project Overview
-This project explores customer churn data from a telecom company to identify the primary drivers behind churn, understand customer behavior patterns, and support strategic decisions aimed at improving customer retention and satisfaction.
+This project explores by power BI customer churn data from a telecom company to identify the primary drivers behind churn, understand customer behavior patterns, and support strategic decisions aimed at improving customer retention and satisfaction.
 
 ## Objectives
 Explore customer churn patterns and identify key influencing factors.
