@@ -56,14 +56,8 @@ This Jupyter Notebook performs the core analysis of the dataset.
    - `Profit`: Actual earnings from operations.
    - `ROMS%`: Return on every marketing dollar spent.
 8.**Export for Power BI**
-
-After performing the analysis and creating new calculated columns (`Profit` and `ROMS%`), the final processed dataset is saved as a CSV file:
-
-### 📁 `expansion_startup_new.csv`
-
-This file contains all original and newly calculated columns and is ready for use in **Power BI** dashboards and reports.
-
- 9.**Power BI Dashboard**
+   - After performing the analysis and creating new calculated columns (`Profit` and `ROMS%`), the final processed dataset is saved as a CSV file:`expansion_startup_new.csv`
+ 9. **Power BI Dashboard**
  - Overview
  - States
  - Cities
