@@ -63,10 +63,6 @@ After performing the analysis and creating new calculated columns (`Profit` and 
 
 This file contains all original and newly calculated columns and is ready for use in **Power BI** dashboards and reports.
 
-```python
-startup.to_csv("expansion_startup_new.csv", index=False)
-
-
 ---
 
 ## 🎯 Objective
