@@ -63,6 +63,11 @@ After performing the analysis and creating new calculated columns (`Profit` and 
 
 This file contains all original and newly calculated columns and is ready for use in **Power BI** dashboards and reports.
 
+9.**Power BI Dashboard**
+ - Overview
+ - States
+ - Cities
+ - Stores
 ---
 
 ## 🎯 Objective
