@@ -1,4 +1,4 @@
-# 📈 Startup Expansion Analysis
+# 📈 Store Performance Analysis & Expansion Strategy
 
 This project analyzes data from various retail stores to assess the impact of marketing and regional expansion on store revenue. It uses a combination of data exploration, visualization, and statistical insights to guide business decision-making.
 
