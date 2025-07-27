@@ -24,13 +24,12 @@ This Excel file contains information about individual store performance and rela
 
 ---
 
-### 2. `Startup-Expansion.ipynb`
 
-This Jupyter Notebook performs the core analysis of the dataset.
 
-#### ✅ Step-by-Step Analysis
-
-1. **Import Libraries**
+### ✅ Step-by-Step Analysis
+1. **Python**  `Startup-Expansion.ipynb` file
+   - This Jupyter Notebook performs the core analysis of the dataset.
+1.1. **Import Libraries**
    - Uses `pandas`, `numpy`, `matplotlib`, and `seaborn` for data manipulation and visualization.
 
 2. **Load Dataset**
