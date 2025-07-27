@@ -56,7 +56,7 @@ This Excel file contains information about individual store performance and rela
    - Cities Dashboard
    - Stores Dashboard
   
- 3. **Data Analytics Presentation**
+ 3. **Data Analytics Presentation** 'Representation.pptx'
     - Project Objective.
     - Business Goals
     - Problem Addressed
