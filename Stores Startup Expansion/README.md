@@ -58,7 +58,7 @@ This Excel file contains information about individual store performance and rela
    - Stores Dashboard
   
  3. **Presentation**
-   - key findings and recommandation**
+    - key findings and recommandation**
 ---
 
 ## 🎯 Objective
