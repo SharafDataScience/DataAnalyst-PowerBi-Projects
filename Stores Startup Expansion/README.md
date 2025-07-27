@@ -30,39 +30,35 @@ This Excel file contains information about individual store performance and rela
 1. **Python**  `Startup-Expansion.ipynb`.
  - **Import Libraries**
    - Uses `pandas`, `numpy`, `matplotlib`, and `seaborn` for data manipulation and visualization.
-
-2. **Load Dataset**
+ - **Load Dataset**
    - Reads the Excel file using `pandas.read_excel()`.
-
-3. **Preview and Explore Data**
+ - **Preview and Explore Data**
    - Uses `.info()` and `.describe()` to understand structure, data types, and distributions.
-
-4. **Create New Metrics**
+ - **Create New Metrics**
    - Calculates `Profit` and `ROMS%` to evaluate marketing efficiency.
-
-5. **Visualizations**
+ - **Visualizations**
    - Analyze revenue vs. marketing spend.
    - Compare performance between new vs. old expansion stores.
    - Regional comparison using plots (bar, scatter, box plots).
-
-6. **Insights**
+ - **Insights**
    - Determine the effectiveness of marketing strategies.
    - Identify high-performing regions or stores.
    - Compare returns between new and existing stores.
-
-7. **New Calculated Metrics**
+ - **New Calculated Metrics**
    - `Profit`: Actual earnings from operations.
    - `ROMS%`: Return on every marketing dollar spent.
-8. **Export for Power BI**
+ - **Export CSV File**
    - After performing the analysis and creating new calculated columns (`Profit` and `ROMS%`), the final processed dataset is saved as a CSV file:`expansion_startup_new.csv`
-9. **Power BI Dashboard**
+     
+2. **Power BI**
     "Startup_Expansion_Dashboard.pdf"
-   - Overview
-   - States
-   - Cities
-   - Stores
+   - Overview Dashboard
+   - States Dashboard
+   - Cities Dashboard
+   - Stores Dashboard
   
- 10. **Presentation of key findings and recommandation**
+ 3. **Presentation**
+   - key findings and recommandation**
 ---
 
 ## 🎯 Objective
