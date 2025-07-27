@@ -63,6 +63,8 @@ This Jupyter Notebook performs the core analysis of the dataset.
    - States
    - Cities
    - Stores
+  
+ 10. **Presentation of key findings and recommandation**
 ---
 
 ## 🎯 Objective
