@@ -48,26 +48,28 @@ This Excel file contains information about individual store performance and rela
    - `Profit`: Actual earnings from operations.
    - `ROMS%`: Return on every marketing dollar spent.
  - **Export CSV File**
-   - After performing the analysis and creating new calculated columns (`Profit` and `ROMS%`), the final processed dataset is saved as a CSV file:`expansion_startup_new.csv`
+   - After performing the analysis and creating new calculated columns (`Profit` and `ROMS%`), the final processed dataset is saved as a    CSV file:`expansion_startup_new.csv`
      
-2. **Power BI**
-    "Startup_Expansion_Dashboard.pdf"
+2. **Power BI**  'Startup_Expansion.ipynb'
    - Overview Dashboard
    - States Dashboard
    - Cities Dashboard
    - Stores Dashboard
   
- 3. **Presentation**
-    - key findings and recommandation**
+ 3. **Data Analytics Presentation**
+    - Project Objective.
+    - Business Goals
+    - Problem Addressed
+    - Power BI Dashboardes
+    - key findings
+    - recommandations
 ---
 
 ## 🎯 Objective
 
 This project helps stakeholders:
+To analyze multi-regional store performance data, uncover high-performing markets, and identify key drivers of profitability and marketing efficiency in order to guide strategic decisions on store expansion and targeted marketing investments.
 
-- Evaluate store performance based on marketing investment and regional distribution.
-- Make data-driven decisions about future store expansions.
-- Understand marketing ROI (Return on Investment).
 
 ---
 
